@@ -1,0 +1,6 @@
+[Sound Theme]
+_Name=moblin
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
