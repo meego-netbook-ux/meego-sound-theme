@@ -4,7 +4,7 @@ SUBDIRS = 			\
 	stereo			\
 	$(NULL)
 
-themedir = $(datadir)/sounds/moblin
+themedir = $(datadir)/sounds/meego
 theme_DATA = index.theme
 
 THEME_IN_FILES = index.theme.in
